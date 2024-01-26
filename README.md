@@ -1,6 +1,6 @@
 # Evaluación Intermedia Parcial 2
 
-###Integrantes
+### Integrantes - Grupo 1
 - Marley Morales
 - Steven Pozo
 - Erick Ramírez
